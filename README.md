@@ -1,18 +1,18 @@
 # JavaScript-Question-practice
 
-🚀 ##JavaScript Question Practice Repository
+## 🚀JavaScript Question Practice Repository
 
 Hey there,
 
 Are you looking to sharpen your JavaScript skills, from the basics to advanced concepts? Look no further! I've created a daily JavaScript question practice repository on GitHub and Replit just for you.
 
-###What's Inside:
+### What's Inside:
 
 Daily JavaScript questions to challenge your skills.
 A progression from fundamental to advanced topics.
 A chance to build and solidify your JavaScript knowledge.
 
-###Why Follow?
+### Why Follow?
 
 Enhance your JavaScript proficiency.
 Prepare for interviews and coding assessments.
