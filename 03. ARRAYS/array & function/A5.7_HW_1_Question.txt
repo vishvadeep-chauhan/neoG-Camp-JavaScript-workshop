@@ -1,4 +1,4 @@
-# A5.7_HW_1
+A5.7_HW_1
 
 You have an array of numbers. Use the given array and perform the following tasks:
 
