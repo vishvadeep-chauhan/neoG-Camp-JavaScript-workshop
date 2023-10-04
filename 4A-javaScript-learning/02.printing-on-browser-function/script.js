@@ -44,3 +44,14 @@ function numSum() {
   
   
 }
+
+
+
+const person = { firstName: 'vishvadeep', lastName: 'chauhan' };
+const firstName = person.firstName;
+const lastName = person.lastName;
+
+
+
+
+// const { firstName, lastName } = person;

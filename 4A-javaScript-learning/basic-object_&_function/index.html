@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <!-- <p id="demo1"></p>
+    <p id="demo2"></p>
+    <p id="demo3"></p>
+    <p id="demo4"></p>
+    <p id="demo5"></p>
+    <p id="vishv"></p> -->
+
+    <p id="demoSum"></p>
+    <p id="demoText"></p>
+
+    <script>
+      //   let a = { apple: 50, banana: 90, grapes: 80, stockName: 5011 };
+
+      //   document.getElementById("demo1").innerHTML = a.apple;
+      //   document.getElementById("demo2").innerHTML = a.banana;
+      //   document.getElementById("demo3").innerHTML = a.grapes;
+      //   document.getElementById("demo4").innerHTML = a.stockName;
+
+      //   const b = a.grapes;
+      //   const c = a.banana;
+
+      //   document.getElementById("demo5").innerHTML = b + c;
+
+      //   function sum() {
+      //     let a = 10;
+      //     let b = 20;
+      //     let e = a + b;
+      //     return e;
+      //   }
+
+      //   document.getElementById("vishv").innerHTML = sum();
+
+      let a = {
+        apple: 50,
+        banana: 90,
+        grapes: 80,
+        stockName: 5011,
+      };
+
+      function sum(calculate) {
+        return calculate.apple + calculate.banana + calculate.grapes;
+      }
+
+      document.getElementById("demoSum").innerHTML = sum(a);
+
+      let objData = {
+        name: "vishv",
+        surName: "chauhan",
+        age: 23,
+        living: "delhi",
+      };
+
+      function text(data) {
+        return (
+          "my Name is:- " +
+          data.name +
+          " " +
+          data.surName +
+          " " +
+          "my age is " +
+          data.age +
+          " " +
+          "im living in " +
+          data.living
+        );
+      }
+      document.getElementById("demoText").innerHTML = text(objData);
+    </script>
+  </body>
+</html>
