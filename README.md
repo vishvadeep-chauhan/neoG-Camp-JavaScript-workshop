@@ -21,4 +21,6 @@ Join me in this journey to become a JavaScript pro. Follow the repository, tackl
 
 GitHub Repo: [https://github.com/vishvadeep-chauhan/JavaScript-Question-practice]
 
+## 🚀JavaScript Notes Link [https://thevishvadeep.notion.site/71cdccb43cbc429095c829d2020f6555?v=2050e4d5988546b7b5b0805e8bc5b411&pvs=4]
+
 Let's code and learn! 🚀

@@ -74,5 +74,37 @@
       }
       document.getElementById("demoText").innerHTML = text(objData);
     </script>
+
+    <p id="demo"></p>
+
+    <script>
+      let arr = {
+        name: "shri",
+        place: "vrindavan",
+        distance: "100km",
+        time: "2hr",
+      };
+
+      let result = object.keys(arr);
+      let b = "";
+      document.getElementById("demo").innerHTML = arr;
+    </script>
+
+    <p id="demo2"></p>
+
+    <script>
+      let arr2 = {
+        name: "shri",
+        place: "vrindavan",
+        distance: "100km",
+        time: "2hr",
+      };
+
+      let result2 = "";
+      for (let [a, b] of object.entries(arr2)) {
+        result2 += a + ":" + b + "<br>";
+      }
+      document.getElementById("demo2").innerHTML = result2;
+    </script>
   </body>
 </html>
