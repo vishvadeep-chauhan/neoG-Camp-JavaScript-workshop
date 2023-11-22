@@ -1,4 +1,4 @@
-# JavaScript-Question-practice
+# JavaScript-neoG-workshop
 
 ## 🚀JavaScript Question Practice Repository
 
